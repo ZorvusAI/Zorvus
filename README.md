@@ -2,6 +2,8 @@
 
 **Zorvus** is an undetectable AI that reads your screen and hears your space and answers — in real time, invisibly.
 
+<img width="700" height="480" alt="zorvus" src="https://github.com/user-attachments/assets/85efe2d5-91d1-4c81-93e2-f0de0a57024a" />
+
 ---
 
 ## 🚀 Features
@@ -16,6 +18,8 @@
 - Real-time speech-to-text transcription using Speechmatics
 - Pause/Resume transcription with hotkeys
 - Send transcript to AI for intelligent responses
+
+<img width="700" height="480" alt="transcribe" src="https://github.com/user-attachments/assets/be0050f0-692c-4303-80af-9d3c0851475d" />
 
 ### 🧠 AI Assistant
 - Supports multiple models: `gemini`, `gpt4`, `gpt4_mini`, `deepseek_v3`, `gemini_lite`
@@ -67,7 +71,7 @@
 
 ---
 
-## 🧪 Stealth Mode
+## 👁️ Stealth Mode
 
 - Hides UI during screen sharing
 - UI windows are movable, transparent, and click-through enabled
