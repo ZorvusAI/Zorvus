@@ -26,4 +26,4 @@ Zorvus is an undetectable AI copilot that reads, listens, and supports every dec
 
 
 © 2025 Zorvus. All rights reserved.  
-[Contact Us](#) | [Terms of Service](#) | [Privacy Policy](#) | [Refund Policy](#) | [Cancellation Policy](#)
+
